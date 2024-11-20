@@ -1,0 +1,55 @@
+/* Assuming the styles are placed in a separate CSS file */
+
+/* Styles for the main content wrapper */
+.main-content {
+  width: 100%;
+  background-color: #f9f9f9;
+}
+
+/* Styles for the form wrapper */
+.wrapper {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0);
+}
+
+/* Styles for the form elements */
+.tbl-30 {
+  width: 100%;
+  background-color: #f9f9f9;
+}
+
+.tbl-30 td {
+  padding: 10px 0;
+  background-color: #f9f9f9;
+}
+
+.tbl-30 input[type="text"],
+.tbl-30 input[type="number"],
+.tbl-30 textarea,
+.tbl-30 select {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.tbl-30 input[type="file"] {
+  width: calc(100% - 20px);
+}
+
+/* Styles for the submit button */
+.tbl-30 input[type="submit"] {
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.tbl-30 input[type="submit"]:hover {
+  background-color: #45a049;
+}
