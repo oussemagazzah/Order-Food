@@ -21,7 +21,7 @@ A web application for ordering food online. The website allows users to browse m
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/food-ordering-website.git
+    git clone https://github.com/oussemagazzah/Order-Food.git
     ```
 
 2. Install the required software:
@@ -33,7 +33,7 @@ A web application for ordering food online. The website allows users to browse m
 
 4. Run the application:
     - Start your Apache and MySQL services (if using XAMPP/WAMP).
-    - Open the project folder in your browser, e.g., `http://localhost/food-ordering-website`.
+    - Open the project folder in your browser, e.g., `http://localhost/Order-Food`.
 
 ## Usage
 
